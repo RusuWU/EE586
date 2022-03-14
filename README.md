@@ -1,1 +1,1 @@
-# EE586
+#Project of EE586 VLSI System Design
